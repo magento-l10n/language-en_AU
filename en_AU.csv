@@ -1,3 +1,4 @@
+"The ""%1"" store ID is incorrect. Verify the store ID and try again.","The ""%1"" website ID is incorrect. Verify the website ID and try again."
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.<a href=""%1"">."
 "One or more of the Cache Types are invalidated: %1. ","Önbellek Türlerinden bir veya daha fazlası geçersiz kılınmıştır: %1. "
 "We were unable to synchronize one or more media files. Please refer to the log file for details.","We were unable to synchronise one or more media files. Please refer to the log file for details."
